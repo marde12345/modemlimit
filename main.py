@@ -16,3 +16,5 @@ obj_login = {
 }
 
 r = requests.post(url=BASE_URL, data=obj_login)
+
+// Membuat form post ke DHCP Config
